@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanzi Wang</title>
+    <link>https://yuanzi-wang.github.io/</link>
+    <description>Recent content on Yuanzi Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://yuanzi-wang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Educate-An online education platform</title>
+      <link>https://yuanzi-wang.github.io/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://yuanzi-wang.github.io/portfolio/work2/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;COVID-19&lt;/strong&gt; has had a big impact on higher education. We designed an &lt;strong&gt;online education platform&lt;/strong&gt; that help collage students transit to online education and keep a high study performance when they have to maintain social distance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Automotive Huamn factors - A Mobile Office for Architects</title>
+      <link>https://yuanzi-wang.github.io/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://yuanzi-wang.github.io/portfolio/work3/</guid>
+      <description>&lt;p&gt;Develop a mobile office in a ‘Level-3’ autonomous vehicle.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
